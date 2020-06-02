@@ -1,0 +1,13 @@
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\bin\Debug\netcoreapp3.1\EncoderNew.exe
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\bin\Debug\netcoreapp3.1\EncoderNew.deps.json
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\bin\Debug\netcoreapp3.1\EncoderNew.runtimeconfig.json
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\bin\Debug\netcoreapp3.1\EncoderNew.runtimeconfig.dev.json
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\bin\Debug\netcoreapp3.1\EncoderNew.dll
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\bin\Debug\netcoreapp3.1\EncoderNew.pdb
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.csprojAssemblyReference.cache
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.csproj.CoreCompileInputs.cache
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.AssemblyInfoInputs.cache
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.AssemblyInfo.cs
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.dll
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.pdb
+G:\Project Files\Personal\ClubPenguinCheater\EncoderNew\EncoderNew\obj\Debug\netcoreapp3.1\EncoderNew.genruntimeconfig.cache
